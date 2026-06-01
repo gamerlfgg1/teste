@@ -6,7 +6,7 @@ body{
     color: whitesmoke;
     font-size: 20px;
 }
-#javaimg[
+#javaimg{
     display: flex;
     padding-left: 200px;
-]
+}
