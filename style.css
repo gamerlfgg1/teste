@@ -5,7 +5,7 @@
 
 
 body{
-    background-color: #4e4e4e;   
+    background-color: #e0e0e0;   
     color: #2e2e2e;
 }
 
@@ -24,6 +24,7 @@ header{
 #javaimg{
     display: flex;
     padding-left: 200px;
+    gap: auto;
 }
 .vidious{
 
