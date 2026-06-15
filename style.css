@@ -15,15 +15,18 @@ header{
     font-size: 36px;
     color: #0c0c0c;
 }
-
-
+.inicio{
+gap: auto;
+padding-left: 200px;
+    
+}
 .Java-Inicio{
     color: whitesmoke;
     font-size: 20px;
 }
 #javaimg{
     display: flex;
-    padding-left: 200px;
+    padding-left: 400px;
     gap: auto;
 }
 .vidious{
