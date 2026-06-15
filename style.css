@@ -1,6 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 body{
     background-color: #4e4e4e;   
+    color: #2e2e2e;
 }
+
+header{
+    border-bottom: #0A0A0A;
+    margin: 20px;
+    font-size: 32px;
+    color: #2e2e2e;
+}
+
 
 .Java-Inicio{
     color: whitesmoke;
@@ -9,4 +24,10 @@ body{
 #javaimg{
     display: flex;
     padding-left: 200px;
+}
+.vidious{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
 }
